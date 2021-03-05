@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6.1" created="2021-02-10 05:47" -->
+	<!-- generator="WordPress/5.6.2" created="2021-03-05 11:24" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Sociable Pro</title>
 	<link>https://themepalacedemo.com/sociable-pro</link>
 	<description>WP Sociable Theme</description>
-	<pubDate>Wed, 10 Feb 2021 05:47:11 +0000</pubDate>
+	<pubDate>Fri, 05 Mar 2021 11:24:23 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://themepalacedemo.com/</wp:base_site_url>
@@ -221,7 +221,7 @@
 	<wp:term><wp:term_id>29</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[support]]></wp:term_slug><wp:term_name><![CDATA[Support]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
 
 <image>
 	<url>https://themepalacedemo.com/sociable-pro/wp-content/uploads/sites/384/2020/08/cropped-logo-sociable-pro-1-100x100.png</url>
@@ -2360,6 +2360,15 @@
 		<description></description>
 		<content:encoded><![CDATA[#popular-posts {
     display: none;
+}
+
+
+#instagram-section #sbi_images{
+    padding: 15px !important;
+}
+
+.sby_items_wrap{
+	padding: 15px !important;
 }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>372</wp:post_id>
@@ -5285,42 +5294,61 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hello Wordl</title>
-		<link>https://themepalacedemo.com/sociable-pro/?p=411</link>
-		<pubDate>Tue, 19 Jan 2021 07:14:26 +0000</pubDate>
+		<title>satyaswaroop bhana</title>
+		<link>https://themepalacedemo.com/sociable-pro/?post_type=sby_videos&#038;p=436</link>
+		<pubDate>Thu, 30 Jul 2015 12:36:26 +0000</pubDate>
 		<dc:creator><![CDATA[tpdemo]]></dc:creator>
-		<guid isPermaLink="false">https://themepalacedemo.com/sociable-pro/?p=411</guid>
+		<guid isPermaLink="false">https://themepalacedemo.com/sociable-pro/?post_type=sby_videos&#038;p=436</guid>
 		<description></description>
-		<content:encoded><![CDATA[Bacon ipsum dolor amet flank fatback tri-tip alcatra ham hock. Pancetta fatback prosciutto, buffalo bacon frankfurter ham hock sausage shankle t-bone landjaeger filet mignon cupim chislic.]]></content:encoded>
+		<content:encoded><![CDATA[[youtube-feed-single]<!-- sby:description-start --><!-- sby:description-end -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>411</wp:post_id>
-		<wp:post_date><![CDATA[2021-01-19 07:14:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-01-19 07:14:26]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-wordl__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_id>436</wp:post_id>
+		<wp:post_date><![CDATA[2015-07-30 12:36:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-07-30 12:36:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[sby_videos]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[sociable-pro-selected-sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sidebar-1]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[sby_video_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[DisL9Yj6dCQ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		<wp:meta_key><![CDATA[sby_feed_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[sby_UCqTomt59nD1V-fX3_x3Bf5g]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1611040740]]></wp:meta_value>
+		<wp:meta_key><![CDATA[sby_channel_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[UCqTomt59nD1V-fX3_x3Bf5g]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-wordl]]></wp:meta_value>
+		<wp:meta_key><![CDATA[sby_channel_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[prashant sinkhwal]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sby_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sby_last_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-01-19 08:01:48]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sby_thumbnails]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{i:120;s:46:"https://i.ytimg.com/vi/DisL9Yj6dCQ/default.jpg";i:320;s:48:"https://i.ytimg.com/vi/DisL9Yj6dCQ/mqdefault.jpg";i:480;s:48:"https://i.ytimg.com/vi/DisL9Yj6dCQ/hqdefault.jpg";i:640;s:48:"https://i.ytimg.com/vi/DisL9Yj6dCQ/hqdefault.jpg";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sby_youtube_publish_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015-07-30 12:36:26]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sby_json]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"kind":"youtube#playlistItem","etag":"2Pi-rMV2YJTSnuYxRV8SnBKqUaI","id":"VVVxVG9tdDU5bkQxVi1mWDNfeDNCZjVnLkRpc0w5WWo2ZENR","snippet":{"publishedAt":"2015-07-30T12:36:26Z","channelId":"UCqTomt59nD1V-fX3_x3Bf5g","title":"satyaswaroop bhana","description":"","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/DisL9Yj6dCQ/default.jpg","width":"120","height":"90"},"medium":{"url":"https://i.ytimg.com/vi/DisL9Yj6dCQ/mqdefault.jpg","width":"320","height":"180"},"high":{"url":"https://i.ytimg.com/vi/DisL9Yj6dCQ/hqdefault.jpg","width":"480","height":"360"}},"channelTitle":"prashant sinkhwal","playlistId":"UUqTomt59nD1V-fX3_x3Bf5g","position":"0","resourceId":{"kind":"youtube#video","videoId":"DisL9Yj6dCQ"}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5853,197 +5881,6 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[700]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Contact Form</title>
-		<link>https://themepalacedemo.com/sociable-pro/?post_type=wpcf7_contact_form&#038;p=183</link>
-		<pubDate>Wed, 24 Apr 2019 06:04:03 +0000</pubDate>
-		<dc:creator><![CDATA[tpdemo]]></dc:creator>
-		<guid isPermaLink="false">https://themepalacedemo.com/myself-pro/?post_type=wpcf7_contact_form&#038;p=183</guid>
-		<description></description>
-		<content:encoded><![CDATA[<label> Your Name (required)
-    [text* your-name] </label>
-
-<label> Your Email (required)
-    [email* your-email] </label>
-
-<label> Subject
-    [text your-subject] </label>
-
-<label> Your Message
-    [textarea your-message] </label>
-
-[submit "Send"]
-1
-Myself Pro "[your-subject]"
-Myself Pro 
-gokarna.themepalace@gmail.com
-From: [your-name] 
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Myself Pro (https://themepalacedemo.com/myself-pro)
-Reply-To: [your-email]
-
-
-
-
-Myself Pro "[your-subject]"
-Myself Pro 
-[your-email]
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Myself Pro (https://themepalacedemo.com/myself-pro)
-Reply-To: gokarna.themepalace@gmail.com
-
-
-
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-The field is required.
-The field is too long.
-The field is too short.
-The date format is incorrect.
-The date is before the earliest one allowed.
-The date is after the latest one allowed.
-There was an unknown error uploading the file.
-You are not allowed to upload files of this type.
-The file is too big.
-There was an error uploading the file.
-The number format is invalid.
-The number is smaller than the minimum allowed.
-The number is larger than the maximum allowed.
-The answer to the quiz is incorrect.
-Your entered code is incorrect.
-The e-mail address entered is invalid.
-The URL is invalid.
-The telephone number is invalid.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>183</wp:post_id>
-		<wp:post_date><![CDATA[2019-04-24 06:04:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-04-24 06:04:03]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<label> Your Name (required)
-    [text* your-name] </label>
-
-<label> Your Email (required)
-    [email* your-email] </label>
-
-<label> Subject
-    [text your-subject] </label>
-
-<label> Your Message
-    [textarea your-message] </label>
-
-[submit "Send"]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Myself Pro "[your-subject]"";s:6:"sender";s:42:"Myself Pro <wordpress@themepalacedemo.com>";s:9:"recipient";s:29:"gokarna.themepalace@gmail.com";s:4:"body";s:187:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Myself Pro (https://themepalacedemo.com/myself-pro)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:27:"Myself Pro "[your-subject]"";s:6:"sender";s:42:"Myself Pro <wordpress@themepalacedemo.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:129:"Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Myself Pro (https://themepalacedemo.com/myself-pro)";s:18:"additional_headers";s:39:"Reply-To: gokarna.themepalace@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>satyaswaroop bhana</title>
-		<link>https://themepalacedemo.com/sociable-pro/?post_type=sby_videos&#038;p=436</link>
-		<pubDate>Thu, 30 Jul 2015 12:36:26 +0000</pubDate>
-		<dc:creator><![CDATA[tpdemo]]></dc:creator>
-		<guid isPermaLink="false">https://themepalacedemo.com/sociable-pro/?post_type=sby_videos&#038;p=436</guid>
-		<description></description>
-		<content:encoded><![CDATA[[youtube-feed-single]<!-- sby:description-start --><!-- sby:description-end -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>436</wp:post_id>
-		<wp:post_date><![CDATA[2015-07-30 12:36:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-07-30 12:36:26]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sby_videos]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[sby_video_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[DisL9Yj6dCQ]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[sby_feed_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sby_UCqTomt59nD1V-fX3_x3Bf5g]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[sby_channel_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[UCqTomt59nD1V-fX3_x3Bf5g]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[sby_channel_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[prashant sinkhwal]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[sby_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[sby_last_updated]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-01-19 08:01:48]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[sby_thumbnails]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{i:120;s:46:"https://i.ytimg.com/vi/DisL9Yj6dCQ/default.jpg";i:320;s:48:"https://i.ytimg.com/vi/DisL9Yj6dCQ/mqdefault.jpg";i:480;s:48:"https://i.ytimg.com/vi/DisL9Yj6dCQ/hqdefault.jpg";i:640;s:48:"https://i.ytimg.com/vi/DisL9Yj6dCQ/hqdefault.jpg";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[sby_youtube_publish_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2015-07-30 12:36:26]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[sby_json]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"kind":"youtube#playlistItem","etag":"2Pi-rMV2YJTSnuYxRV8SnBKqUaI","id":"VVVxVG9tdDU5bkQxVi1mWDNfeDNCZjVnLkRpc0w5WWo2ZENR","snippet":{"publishedAt":"2015-07-30T12:36:26Z","channelId":"UCqTomt59nD1V-fX3_x3Bf5g","title":"satyaswaroop bhana","description":"","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/DisL9Yj6dCQ/default.jpg","width":"120","height":"90"},"medium":{"url":"https://i.ytimg.com/vi/DisL9Yj6dCQ/mqdefault.jpg","width":"320","height":"180"},"high":{"url":"https://i.ytimg.com/vi/DisL9Yj6dCQ/hqdefault.jpg","width":"480","height":"360"}},"channelTitle":"prashant sinkhwal","playlistId":"UUqTomt59nD1V-fX3_x3Bf5g","position":"0","resourceId":{"kind":"youtube#video","videoId":"DisL9Yj6dCQ"}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
